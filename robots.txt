@@ -1,4 +1,8 @@
 User-agent: *
 Allow: /
+Disallow: /brand_assets/
+Disallow: /inspiration/
+Disallow: /_tw-input.css
+Disallow: /tailwind.config.js
 
-Sitemap: [SITE URL]/sitemap.xml
+Sitemap: https://braddik-roofing.vercel.app/sitemap.xml
